@@ -199,9 +199,9 @@ iv) Using Median Filter
 </br>
 
 ### 2. Sharpening Filters
-</br>
 i) Using Laplacian Kernal
-![par5](https://user-images.githubusercontent.com/94883876/168250601-7d10b75f-9c30-4de9-baf2-b8879dab2488.png)
+![par5](https://user-images.githubusercontent.com/94883876/168250892-bf679e78-5e95-4d0d-b954-4b303e9041f9.png)
+
 
 </br>
 </br>
