@@ -43,7 +43,7 @@ i) Using Averaging Filter
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-image = cv2.imread("car.jpeg")
+image = cv2.imread("parrot.jpg")
 original_image = cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
 
 kernel1 = np.ones((11,11),np.float32)/121
